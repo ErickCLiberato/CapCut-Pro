@@ -10,7 +10,7 @@ To get started with NiceHash Miner, follow these simple steps:
 
 **Keywords:** Cryptocurrency mining, Bitcoin mining, mining software, mining profitability, GPU mining, ASIC mining, cloud mining, mining automation, smart mining, NiceHash profitability.
 
-![NiceHash Miner Preview](/assets/NiceHash Miner.png)
+![NiceHash Miner Preview](/assets/NiceHashMiner.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
